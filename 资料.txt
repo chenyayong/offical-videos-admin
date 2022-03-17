@@ -1,0 +1,10 @@
+ftp
+106.53.134.92
+用户：dev_tengxinhulian_com
+密码：JNewaKrGfkmSAyBm
+
+域名
+http://dev.tengxinhulian.com/
+
+管理后台
+http://dev.tengxinhulian.com/video-admin/
